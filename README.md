@@ -10,6 +10,7 @@
 
 ### 📫 How to reach me:
   ✉️ [E-mail](mailto:vggaia10@gmail.com)
+  <a href="https://linkedin.com/in/victoroliveira" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-victoroliveira-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 
 ## 🛠 &nbsp;Tech Stack
