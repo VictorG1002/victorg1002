@@ -3,7 +3,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Victor Oliveira</h1>
 
 ### 💬 About me:
-- 🔥 Junior Front-End Web Developer 
+- 🔥 Junior Front-End Developer 
 - 📘 Computer Science at the Tiradentes University Center (UNIT)
 - 🔭 Currently working with: Javascript, Typescript, ReactJS, Chakra UI.
 - 🌱 Currently learning: API Integrations Google Firebase.
