@@ -5,8 +5,8 @@
 ### 💬 About me:
 - 🔥 Junior Front-End Developer 
 - 📘 Computer Science at the Tiradentes University Center (UNIT)
-- 🔭 Currently working with: Javascript, Typescript, ReactJS, Chakra UI.
-- 🌱 Currently learning: API Integrations Google Firebase.
+- 🔭 Currently working with: Javascript, Typescript, ReactJS, Chakra UI, Material UI.
+- 🌱 Currently learning: Node
 
 ### 📫 How to reach me:
   ✉️ [E-mail](mailto:vggaia10@gmail.com)<div> </div>
