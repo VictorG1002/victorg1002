@@ -5,8 +5,8 @@
 ### 💬 About me:
 - 🔥 Junior Front-End Developer 
 - 📘 Computer Science at the Tiradentes University Center (UNIT)
-- 🔭 Currently working with: Javascript, Typescript, ReactJS, Chakra UI, Material UI.
-- 🌱 Currently learning: Node
+- 🔭 Currently working with: Javascript, Typescript, ReactJS, NextJS, Node, Chakra UI, Material UI.
+- 🌱 Currently learning: Web 3.0
 
 ### 📫 How to reach me:
   ✉️ [E-mail](mailto:vggaia10@gmail.com)<div> </div>
