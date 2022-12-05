@@ -6,7 +6,7 @@
 - 🔥 Mid Front-End Developer 
 - 📘 Computer Science at the Tiradentes University Center (UNIT)
 - 🔭 Currently working with: Javascript, Typescript, ReactJS, NextJS, Node, Chakra UI, Material UI.
-- 🌱 Currently learning: Web 3.0
+- 🌱 Currently learning: Web 3.0 and React Native
 
 ### 📫 How to reach me:
   ✉️ [E-mail](mailto:vggaia10@gmail.com)<div> </div>
