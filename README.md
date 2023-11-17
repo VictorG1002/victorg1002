@@ -1,6 +1,6 @@
 
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Victor Oliveira</h1>
+<h1 align="left">Hi , I'm Victor Oliveira</h1>
 
 ### 💬 About me:
 - 🔥 Mid Front-End Developer 
