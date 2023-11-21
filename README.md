@@ -3,7 +3,7 @@
 <h1 align="left">Hi , I'm Victor Oliveira</h1>
 
 ### 💬 About me:
-- 🔥 Mid Front-End Developer 
+- 🔥 Full Stack Developer 
 - 📘 Computer Science at the Tiradentes University Center (UNIT)
 - 🔭 Currently working with: Javascript, Typescript, ReactJS, NextJS, Node, Chakra UI, Material UI.
 - 🌱 Currently learning: Web 3.0 and React Native
